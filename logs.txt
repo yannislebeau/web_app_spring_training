@@ -1,0 +1,26 @@
+Guess a number :
+guess: 0
+It's higher !
+guess: 2500
+It's lower !
+guess: 1250
+It's lower !
+guess: 625
+It's higher !
+guess: 937
+It's lower !
+guess: 781
+It's lower !
+guess: 703
+It's lower !
+guess: 664
+It's higher !
+guess: 683
+It's lower !
+guess: 673
+It's lower !
+guess: 668
+It's lower !
+guess: 666
+YOU WIN. The number to guess was: 666
+Took 14ms to solve
